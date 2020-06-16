@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cosmorenko.github.io</id>
     <title>Cosmorenko-Filharmonien</title>
-    <updated>2020-06-16T09:26:31.407Z</updated>
+    <updated>2020-06-16T09:37:11.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cosmorenko.github.io"/>
     <link rel="self" href="https://cosmorenko.github.io/atom.xml"/>
@@ -10,28 +10,4 @@
     <logo>https://cosmorenko.github.io/images/avatar.png</logo>
     <icon>https://cosmorenko.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Cosmorenko-Filharmonien</rights>
-    <entry>
-        <title type="html"><![CDATA[Test]]></title>
-        <id>https://cosmorenko.github.io/post/test/</id>
-        <link href="https://cosmorenko.github.io/post/test/">
-        </link>
-        <updated>2020-06-16T09:16:36.000Z</updated>
-        <summary type="html"><![CDATA[<p>学习一下怎么用Github建站</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>学习一下怎么用Github建站</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://cosmorenko.github.io/post/hello-gridea/</id>
-        <link href="https://cosmorenko.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></content>
-    </entry>
 </feed>
