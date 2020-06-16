@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cosmorenko.github.io</id>
     <title>Cosmorenko-Filharmonien</title>
-    <updated>2020-06-16T09:37:59.173Z</updated>
+    <updated>2020-06-16T09:40:39.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cosmorenko.github.io"/>
     <link rel="self" href="https://cosmorenko.github.io/atom.xml"/>
@@ -10,4 +10,11 @@
     <logo>https://cosmorenko.github.io/images/avatar.png</logo>
     <icon>https://cosmorenko.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Cosmorenko-Filharmonien</rights>
+    <entry>
+        <title type="html"><![CDATA[Welcome！]]></title>
+        <id>https://cosmorenko.github.io/post/welcome/</id>
+        <link href="https://cosmorenko.github.io/post/welcome/">
+        </link>
+        <updated>2020-06-16T09:38:12.000Z</updated>
+    </entry>
 </feed>
