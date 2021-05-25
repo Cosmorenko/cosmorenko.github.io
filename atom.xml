@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cosmorenko.github.io</id>
     <title>Cosmorenko-Filharmonien</title>
-    <updated>2020-06-16T11:42:46.384Z</updated>
+    <updated>2021-05-25T18:34:30.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cosmorenko.github.io"/>
     <link rel="self" href="https://cosmorenko.github.io/atom.xml"/>
     <subtitle>行者常至</subtitle>
     <logo>https://cosmorenko.github.io/images/avatar.png</logo>
     <icon>https://cosmorenko.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Cosmorenko-Filharmonien</rights>
+    <rights>All rights reserved 2021, Cosmorenko-Filharmonien</rights>
+    <entry>
+        <title type="html"><![CDATA[从今天起，一些事情再与我无关]]></title>
+        <id>https://cosmorenko.github.io/post/cong-jin-tian-qi-yi-xie-shi-qing-zai-yu-wo-wu-guan/</id>
+        <link href="https://cosmorenko.github.io/post/cong-jin-tian-qi-yi-xie-shi-qing-zai-yu-wo-wu-guan/">
+        </link>
+        <updated>2021-05-25T18:32:36.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome！]]></title>
         <id>https://cosmorenko.github.io/post/welcome/</id>
