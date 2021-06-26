@@ -3,7 +3,7 @@
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>测试 | Cosmorenko-Filharmonien</title>
-<link rel="shortcut icon" href="https://cosmorenko.github.io/favicon.ico?v=1624694939888">
+<link rel="shortcut icon" href="https://cosmorenko.github.io/favicon.ico?v=1624695191479">
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cosmorenko.github.io/styles/main.css">
 <link rel="alternate" type="application/atom+xml" title="测试 | Cosmorenko-Filharmonien - Atom Feed" href="https://cosmorenko.github.io/atom.xml">
@@ -21,7 +21,7 @@
     <div class="main">
       <div class="main-content">
         <div class="site-header">
- <img class="avatar" src="https://cosmorenko.github.io/images/avatar.png?v=1624694939888" alt="">
+ <img class="avatar" src="https://cosmorenko.github.io/images/avatar.png?v=1624695191479" alt="">
   </a>
   <h1 class="site-title">
     Cosmorenko-Filharmonien
@@ -109,21 +109,30 @@
 
         
           
-            <!--评论显示区，请插入合适的位置-->
-<div id="comment"></div>
-<!--Leancloud 操作库:-->
-<script src="//cdn1.lncld.net/static/js/3.6.1/av-min.js"></script>
-<!--Valine 的核心代码库-->
-<script src="//cdn.jsdelivr.net/npm/valine@1.4.4/dist/Valine.min.js"></script>
-<script>
-    new Valine({
-        el:'#comment',
-        appId: GjF183dM3LDSck8VRV18Smt6-gzGzoHsz,
-        appKey: XcXKhSmW7tcmka5hAnexPwun,
-        placeholder: "Say somthing, it's a comment box!",
-        avatar:''
-    });
-</script>
+            <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Valine - A simple comment system based on Leancloud.</title>
+    <!--Leancloud 操作库:-->
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <!--Valine 的核心代码库:-->
+    <script src="./dist/Valine.min.js"></script>
+</head>
+<body>
+    <div class="comment"></div>
+    <script>
+        new Valine({
+            // AV 对象来自上面引入av-min.js(老司机们不要开车➳♡゛扎心了老铁)
+            av: AV, 
+            el: '.comment', // 
+            app_id: GjF183dM3LDSck8VRV18Smt6-gzGzoHsz, // 这里填写上面得到的APP ID
+            app_key: XcXKhSmW7tcmka5hAnexPwun, // 这里填写上面得到的APP KEY
+            placeholder: "Say somthing, it's a comment box!" // [v1.0.7 new]留言框占位提示文字
+        });
+    </script>
+</body>
+</html>
           
 
           
